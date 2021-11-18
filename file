@@ -1,4 +1,4 @@
 #!/bin/bash 
 name="Enter your name "
 read$sname
-echo "Name of the person is $sname"
+echo "Name of the person is" $sname 
