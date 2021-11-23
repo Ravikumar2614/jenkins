@@ -1,4 +1,0 @@
-name = "Enter name of the person "
-age = "Enter the age of the person "
-echo "Name :- " $name 
-echo "Age:- " $age 
