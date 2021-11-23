@@ -1,7 +1,0 @@
-#!/bin/bash 
-name="Enter your name "
-read$sname
-age="Enter your age"
-read$sage
-echo "Name of the person is" $sname 
-echo "Age : "$age 
